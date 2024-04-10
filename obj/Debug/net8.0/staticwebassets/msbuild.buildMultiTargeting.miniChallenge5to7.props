@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\miniChallenge5to7.props" />
+</Project>
